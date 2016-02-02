@@ -554,7 +554,7 @@ img {
     header #menu_icon,
     header .close_menu{
         float: right;
-        margin: 30px 30px 0 0;
+        margin: 10px 10px 0 0;
     }
     
     header nav{
@@ -675,7 +675,6 @@ img {
     h2 {
     font-size: 25px;
     line-height: 25px;
-    margin: 10px;
     }
 
     .title {
