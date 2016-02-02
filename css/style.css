@@ -721,10 +721,10 @@ img {
         width: 35px;
     }
 
-    #solvatten-phone{
+    /*#solvatten-phone{
     position: relative;
       
-    }
+    }*/
 
     #solvatten-phone > div {
 
@@ -739,6 +739,10 @@ img {
     margin: auto;
     width: 100%;
     height: 100%;
+    }
+
+    #scrollsite {
+        display: none;
     }
 
 
