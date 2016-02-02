@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="467.9px" height="273px" viewBox="0 0 467.9 273" enable-background="new 0 0 467.9 273" xml:space="preserve">
+<rect x="-270" y="-293.3" display="none" width="1000" height="1000"/>
+<g id="handle_2_">
+	<g id="handle">
+		<g>
+			<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="19" stroke-miterlimit="10" d="M229.6,11c0,0,39.3,0,62.2,0
+				c23.2,0,33,24,36.5,32.7c6.4,16.1,8.9,30.9,8.9,30.9l-28.5,0V59.2c0,0-1.1-29.2-31.6-29.2c-17.9,0-54.7-0.1-54.7-0.1"/>
+		</g>
+	</g>
+	<g id="handle_1_">
+		<g>
+			<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="19" stroke-miterlimit="10" d="M238.4,11c0,0-39.3,0-62.2,0
+				c-23.2,0-33,24-36.5,32.7c-6.4,16.1-8.9,30.9-8.9,30.9l28.5,0V59.2c0,0,1.1-29.2,31.6-29.2c17.9,0,54.7-0.1,54.7-0.1"/>
+		</g>
+	</g>
+</g>
+<path id="container_1_" fill="#181818" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M6,273v-5V108.5
+	c0-11,9-20,20-20H442c11,0,20,9,20,20V268v5"/>
+<path id="containerInside" fill="#191919" d="M50,273V147.4c0-11,9-20,20-20h331.4c11,0,20,9,20,20V273H50z"/>
+<rect id="blackBottomCap" x="370.7" y="64.9" fill="#FFFFFF" width="71" height="26.6"/>
+<rect id="whiteBottomCap" x="27.8" y="64.9" fill="#FFFFFF" width="71" height="26.6"/>
+<path id="whiteTopCap" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="9" stroke-miterlimit="10" d="M28.1,67.1l71-1.4
+	c0,0-0.5-23.1-0.6-29.1c-0.2-11.1-14.3-10-14.3-10l-43.8,0.9c0,0-13.1,0-12.8,11.3C28,63.2,28.1,67.1,28.1,67.1z"/>
+<path id="blackTopCap" stroke="#FFFFFF" stroke-width="9" stroke-miterlimit="10" d="M369.6,63.1h73.2c0,0,0-23.8,0-30
+	c0-11.4-14.5-10.6-14.5-10.6l-45.2,0c0,0-13.5-0.3-13.5,11.4C369.6,59.2,369.6,63.1,369.6,63.1z"/>
+<rect x="200.3" y="88.5" stroke="#FFFFFF" stroke-width="7" stroke-miterlimit="10" width="67.5" height="127.4"/>
+<circle id="emiley" fill="#67BD55" cx="234" cy="123.8" r="26"/>
+<path id="mouth" fill="none" stroke="#000000" stroke-width="2.1" stroke-miterlimit="10" d="M248.7,128.2c0,8.1-6.8,12.8-14.7,12.8
+	c-8.2,0-14.7-5-14.7-12.8"/>
+<g id="eyes">
+	<path id="mouth_1_" fill="none" stroke="#000000" stroke-width="2.1" stroke-miterlimit="10" d="M238.7,117.3
+		c0-2.8,2.5-5.8,6.3-5.8c3.5,0,6.3,2.4,6.3,5.8"/>
+	<path id="mouth_2_" fill="none" stroke="#000000" stroke-width="2.1" stroke-miterlimit="10" d="M216.6,117.6
+		c0-2.8,2.5-5.8,6.3-5.8c3.5,0,6.3,2.4,6.3,5.8"/>
+</g>
+<rect x="213.1" y="78.7" fill="#FFFFFF" width="41.9" height="9.4"/>
+<ellipse fill="#F4CA3B" stroke="#F4CA3B" stroke-width="2" stroke-miterlimit="10" cx="234" cy="76.7" rx="21" ry="8.5"/>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="467.9px" height="303.2px" viewBox="0 0 467.9 303.2" enable-background="new 0 0 467.9 303.2" xml:space="preserve">
+<rect x="-270" y="-263.1" display="none" width="1000" height="1000"/>
+<g id="handle_2_">
+	<g id="handle">
+		<g>
+			<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="19" stroke-miterlimit="10" d="M229.6,41.2c0,0,39.3,0,62.2,0
+				c23.2,0,33,24,36.5,32.7c6.4,16.1,8.9,30.9,8.9,30.9l-28.5,0V89.5c0,0-1.1-29.2-31.6-29.2c-17.9,0-54.7-0.1-54.7-0.1"/>
+		</g>
+	</g>
+	<g id="handle_1_">
+		<g>
+			<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="19" stroke-miterlimit="10" d="M238.4,41.2c0,0-39.3,0-62.2,0
+				c-23.2,0-33,24-36.5,32.7c-6.4,16.1-8.9,30.9-8.9,30.9l28.5,0V89.5c0,0,1.1-29.2,31.6-29.2c17.9,0,54.7-0.1,54.7-0.1"/>
+		</g>
+	</g>
+</g>
+<path id="container_1_" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M6,303.2v-5V138.7c0-11,9-20,20-20H442
+	c11,0,20,9,20,20v159.5v5"/>
+<path id="containerInside" fill="#191919" d="M50,303.2V177.6c0-11,9-20,20-20h331.4c11,0,20,9,20,20v125.6H50z"/>
+<rect id="blackBottomCap" x="370.7" y="95.1" fill="#FFFFFF" width="71" height="26.6"/>
+<path id="blackTopCap" stroke="#FFFFFF" stroke-width="9" stroke-miterlimit="10" d="M446,65.1l-70.3-20.5c0,0,6.7-22.9,8.4-28.8
+	c3.2-11,16.9-6.1,16.9-6.1l43.4,12.6c0,0,13,3.5,9.8,14.7C447.1,61.3,446,65.1,446,65.1z"/>
+<rect id="whiteBottomCap" x="27.8" y="95.1" fill="#FFFFFF" width="71" height="26.6"/>
+<path id="whiteTopCap" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="9" stroke-miterlimit="10" d="M21.5,65.1l68.2-19.7
+	c0,0-6.4-22.2-8.1-28c-3.1-10.7-16.4-5.9-16.4-5.9L23.2,23.7c0,0-12.6,3.4-9.5,14.2C20.5,61.4,21.5,65.1,21.5,65.1z"/>
+<rect x="213" y="108.9" fill="#FFFFFF" width="41.9" height="9.4"/>
+<ellipse fill="#F4CA3B" stroke="#F4CA3B" stroke-width="2" stroke-miterlimit="10" cx="234" cy="108.4" rx="21" ry="8.5"/>
+</svg>

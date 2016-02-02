@@ -1,0 +1,40 @@
+/* BODY */
+body {
+	max-width: 600px;			/* Max width of the site */
+	margin: 0 auto !important;
+	float: none !important;
+
+	background-color: #000;
+}
+
+/* STEPS */
+div {
+	background-color: #000;
+	margin: 50px 20px 30px 20px; /* top right bottom left */
+}
+
+/* TEXT */
+h1 {
+	font-family: Helvetica, sans-serif;
+	font-size: 30px;
+	color: #fff;
+	font-weight: 100;
+	margin-bottom: 50px;
+}
+
+/* IMAGES */
+object {
+	width: 100%;
+}
+
+/* HORIZONTAL LINES */
+hr {
+	border: 0;
+	height: 1px;
+	background: #fff;
+}
+
+/* LOGO */
+#logo {
+	margin-bottom: 60px;
+}
