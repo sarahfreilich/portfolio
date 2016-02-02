@@ -696,6 +696,37 @@ img {
         padding-bottom: 10px;
     }
 
+    #contact {
+    left: 50%;
+    }
+
+    #contact h1 {
+    font-size: 24.9px;
+    line-height: 0px;
+    }
+
+    #contact h2 {
+        font-size: 12.6px;
+        line-height: 0;
+        margin: 0 0 50px 0;
+    }
+
+    #contact h3 {
+        font-size: 23.6px;
+        line-height: 0;
+    }
+
+    #contact ul li {
+        display: inline;
+        margin: 0 15px 0 0;
+    }
+
+    #contact ul li a img{
+        width: 40px;
+    }
+
+
+
 }
 /* RESPONSIVE CODE END */
 
