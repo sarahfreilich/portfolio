@@ -725,7 +725,12 @@ img {
         width: 40px;
     }
 
-
+    #solvatten-phone iframe {
+    display: block;
+    margin: auto;
+    width: 5%;
+    height: 10%;
+}
 
 }
 /* RESPONSIVE CODE END */
