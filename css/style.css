@@ -547,6 +547,10 @@ img {
     display: none;
 }
 
+    .solvattentext2 {
+        display: none;
+    }   
+
 
 
 
@@ -661,10 +665,21 @@ img {
     margin: 10px 30px 10px 30px;
     }
 
-    #solvatten-phone2 {
+    #solvatten-phone {
         display: none;
     }
 
+    #solvatten-phone2 {
+        display: block;
+    }
+
+    .solvattentext1 {
+    display: none;
+    }
+
+    .solvattentext2 {
+    display: block;
+    }
 
 
 }
@@ -757,10 +772,20 @@ img {
         width: 35px;
     }
 
-
-
     #solvatten-phone {
         display: none;
+    }
+
+    #solvatten-phone2 {
+        display: block;
+    }
+
+    .solvattentext1 {
+    display: none;
+    }
+
+    .solvattentext2 {
+    display: block;
     }
 
 
