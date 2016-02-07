@@ -76,6 +76,10 @@ body{
     background-color: #000000;
 }
 
+.video {
+    width: 100%;
+}
+
 header ul.social li a,
 .main .work a .caption,
 header nav ul li a {
