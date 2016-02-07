@@ -1,6 +1,6 @@
 /* BODY */
 body {
-	max-width: 600px;			/* Max width of the site */
+	width: 100%;			/* Max width of the site */
 	margin: 0 auto !important;
 	float: none !important;
 
