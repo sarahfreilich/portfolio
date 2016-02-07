@@ -62,6 +62,11 @@ font-family: "Reader Bold", Arial, 'Helvetica Neue', Helvetica, sans-serif;
 
 
 
+::selection{
+    background-color: white;
+    color: black;
+}
+
 /*  BODY */
 body{
     background: #000000;
