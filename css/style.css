@@ -62,11 +62,6 @@ font-family: "Reader Bold", Arial, 'Helvetica Neue', Helvetica, sans-serif;
 
 
 
-::selection{
-    background-color: white;
-    color: black;
-}
-
 /*  BODY */
 body{
     background: #000000;
@@ -79,10 +74,6 @@ body{
     width: 86,979167%;  /*92.72727272727273*/
     margin: 0 auto;
     background-color: #000000;
-}
-
-.video {
-    width: 100%;
 }
 
 header ul.social li a,
@@ -153,6 +144,7 @@ h5, h6          { font-weight: bolder }
         display: block;
         overflow: hidden;
         list-style: none;
+        width: 250px;
     }
 
     header nav ul li{
@@ -164,11 +156,11 @@ h5, h6          { font-weight: bolder }
     header nav ul li a{
         color: #ffffff;
         font-family: 'raleway', "Helvetica", sans-serif;
-        font-size: 40px;
+        font-size: 30px;
         text-transform: uppercase;
         text-decoration: none;
         letter-spacing: 5px;
-        font-weight: 100;
+        font-weight: 500;
 
     }
 
@@ -268,8 +260,6 @@ h5, h6          { font-weight: bolder }
 
 .main .work a:hover .caption{
     opacity: 1;
-    transition: all 1s;
-    -webkit-transition: all 1s;
 }
 
 
@@ -308,7 +298,6 @@ h1 {
     font-size: 100px;
     margin: 100px 0 10px 0;
     letter-spacing: 10px;
-    font-weight: 100;
 }
 
 img {
@@ -368,8 +357,6 @@ img {
 
 .text h4 {
     margin-bottom: -15px;
-    font-family: 'raleway', "Helvetica", sans-serif;
-    font-size: 18px;
 
 }
 
@@ -548,13 +535,6 @@ img {
     margin-left: -3px;
 }
 
-#solvatten-phone2 {
-    display: none;
-}
-
-    .solvattentext2 {
-        display: none;
-    }   
 
 
 
@@ -575,7 +555,7 @@ img {
     header #menu_icon,
     header .close_menu{
         float: right;
-        margin: 10px 10px 0 0;
+        margin: 30px 30px 0 0;
     }
     
     header nav{
@@ -666,25 +646,14 @@ img {
     margin: 10px 30px 10px 30px;
     }
 
+    .text2 {
+    margin: 10px 30px 10px 30px;
+}
+
     .Abouttext {
     margin: 10px 30px 10px 30px;
     }
 
-    #solvatten-phone {
-        display: none;
-    }
-
-    #solvatten-phone2 {
-        display: block;
-    }
-
-    .solvattentext1 {
-    display: none;
-    }
-
-    .solvattentext2 {
-    display: block;
-    }
 
 
 }
@@ -696,24 +665,23 @@ img {
 
     h1 {
     color: #ffffff;
-    font-size: 35px;
+    font-size: 40px;
     margin: 0 0 50px 0;
     text-align: left;
     font-family: 'raleway-bold', "Helvetica", sans-serif;
     letter-spacing: 4px;
-    line-height: 40px;
+    line-height: 80px;
     }
 
     h2 {
     font-size: 25px;
     line-height: 25px;
-    margin-left: 10px;
+    margin: 10px;
     }
 
     .title {
-    margin-top: -30px;
+    margin-top: 0px;
     margin-bottom: 10px;
-    margin-left: 10px;
 }
 
     .text {
@@ -727,72 +695,6 @@ img {
     #contentImg {
         padding-bottom: 10px;
     }
-
-    #contact {
-        position: relative;
-        top: 0;
-        left: 0%;
-        transform: none;
-        right: 0;
-        margin: 50px 10px 0 0;
-        }
-
-    #contact h1 {
-        font-size: 22px;
-        line-height: 0px;
-        letter-spacing: 8px;
-        text-align: right;
-        margin: 0 -10px 50px 0;
-    }
-
-    #contact h2 {
-        font-size: 14px;
-        line-height: 0;
-        margin: 0 -2px 30px 0;
-        text-align: right;
-        letter-spacing: 2px;
-    }
-
-    #contact h3 {
-        font-size: 17px;
-        line-height: 0;
-        text-align: right;
-        margin: 0 -5px 30px 0;
-    }
-
-    #contact ul {
-        display: inline;
-        margin: 0;
-        float: right;
-
-    }
-
-    #contact ul li {
-        display: inline;
-        margin: 0 0 0 10px;
-
-    }
-
-    #contact ul li a img{
-        width: 35px;
-    }
-
-    #solvatten-phone {
-        display: none;
-    }
-
-    #solvatten-phone2 {
-        display: block;
-    }
-
-    .solvattentext1 {
-    display: none;
-    }
-
-    .solvattentext2 {
-    display: block;
-    }
-
 
 }
 /* RESPONSIVE CODE END */
